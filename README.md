@@ -1,0 +1,2 @@
+# kanakebab
+linuxkurssi
